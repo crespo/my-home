@@ -7,3 +7,27 @@
   color: white;
   background: #0DCAF0;
 }
+
+html, body {
+            height: 100%;
+        }
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #212529;
+    text-align: center;
+}
+
+.cover-container {
+    max-width: 700px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.links a {
+    margin: 0 10px;
+}
